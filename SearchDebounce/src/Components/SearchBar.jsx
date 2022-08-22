@@ -88,7 +88,7 @@ flex-direction:column;
 flex:0 0 auto;
 margin:auto;
 max-height:${({limit})=>`${limit * 38.667}px`};
-o  verflow:auto;
+overflow:auto;
 
 & * {
     flex:1;
